@@ -21,8 +21,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PollexLee&show_icons=true&theme=tokyonight&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PollexLee&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=PollexLee&show_icons=true&theme=tokyonight&hide_border=true">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=PollexLee&show_icons=true&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PollexLee&theme=tokyonight&hide_border=true">
@@ -32,8 +32,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PollexLee&layout=compact&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollexLee&layout=compact&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PollexLee&layout=compact&theme=tokyonight&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PollexLee&layout=compact&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
 
